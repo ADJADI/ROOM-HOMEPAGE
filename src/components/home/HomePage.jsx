@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Navbar from "../Navbar";
-import bedroom from "../../../../images/image-about-dark.jpg";
-import chair from "../../../../images/image-about-light.jpg";
+import bedroom from "../../assets/images/image-about-dark.jpg";
+import chair from "../../assets/images/image-about-light.jpg";
 import PropTypes from "prop-types";
 
 export default function HomePage({ slides }) {

@@ -1,9 +1,9 @@
-import home1Dskt from "../../../../images/desktop-image-hero-1.jpg";
-import home2Dskt from "../../../../images/desktop-image-hero-2.jpg";
-import home3Dskt from "../../../../images/desktop-image-hero-3.jpg";
-import home1Mbl from "../../../../images/mobile-image-hero-1.jpg";
-import home2Mbl from "../../../../images/mobile-image-hero-2.jpg";
-import home3Mbl from "../../../../images/mobile-image-hero-3.jpg";
+import home1Dskt from "../../assets/images/desktop-image-hero-1.jpg";
+import home2Dskt from "../../assets/images/desktop-image-hero-2.jpg";
+import home3Dskt from "../../assets/images/desktop-image-hero-3.jpg";
+import home1Mbl from "../../assets/images/mobile-image-hero-1.jpg";
+import home2Mbl from "../../assets/images/mobile-image-hero-2.jpg";
+import home3Mbl from "../../assets/images/mobile-image-hero-3.jpg";
 
 const HomeData = [
   {
